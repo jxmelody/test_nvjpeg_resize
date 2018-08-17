@@ -1,0 +1,30 @@
+nvJPEG Release Notes v0.1.3
+---------------------------
+
+Fixed Issues
+============
+
+- Fixed the bug with parsing color components with various sampling factors.
+
+- Fixed the bug in the batched decoder that caused CUDA error with some of the batch sizes.
+
+nvJPEG Release Notes v0.1.2
+---------------------------
+
+Fixed Issues
+============ 
+
+Bug fixes related to the corruption in the batch decoding result when there is grayscale image in the batch.
+
+nvJPEG Release Notes v0.1.1
+---------------------------
+
+Fixed Issues
+============
+
+Bug fixes related to the pipelined single-image decoding phases synchronization.
+
+nvJPEG Release Notes v0.1.0
+---------------------------
+
+Initial release. 
