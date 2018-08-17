@@ -1,6 +1,6 @@
 # test nvjpeg resize
 
-This repo is main from NVIDIA ![official website](https://developer.nvidia.com/nvjpeg-release-candidate-download)
+This repo is main from NVIDIA [official website](https://developer.nvidia.com/nvjpeg-release-candidate-download)
 
 File nvjpeg_npp.cpp/nvJpegnpp.hpp are copied from nvJpeg_example.cpp/nvJpeg_exmaple.hxx and modified for new features :
 - 1.Resize imamges use Nppresize and write to specific path
